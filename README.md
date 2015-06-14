@@ -1,3 +1,5 @@
-# horse_race
+## Horse Race
 
-simple python-based horse race simulation
+	It is a simple python based horse race simulation
+
+![resume](horse_race.png)
